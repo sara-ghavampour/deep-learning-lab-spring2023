@@ -4,7 +4,7 @@
 
 
 
-. [MNIST MLP Classification](mnist-mlp-classification): Investigaing the effects of deifferent properties of MLP such as number of layers, number on neurons in each layer and optimizer on accuracy.
+. [MNIST MLP Classification](mnist-mlp-classification): Investigaing the effects of different properties of MLP such as number of layers, number on neurons in each layer and optimizer on accuracy.
 
 . [Transfer Learning](transfer-learning): Pretrain ResNet, DenseNet and VGG on Dog&Cat dataset ,and conduct experiments on different percentages
 of freezing layers in the fine-tuning satge.
