@@ -11,5 +11,5 @@ of freezing layers in the fine-tuning satge.
 
 . [Sentiment classification](sentiment-classification): Sentiment classification on Sports and Outdoors Amazon comments dataset, and conducting experiments by using  SimpleRNN  ,LSTM, GRU, Bidirectional RNN for layers.
 
-. [Unsupervised Deep Learning](unsupervised-deep-learning): Train CNN-AE and DCGAN on cifar10 and domainnet datasets, and investigate the properties of these unsupervised neural networks bu testing them on unseen data.
+. [Unsupervised Deep Learning](unsupervised-deep-learning): Train CNN-AE and DCGAN on cifar10 and domainnet datasets, and investigate the properties of these unsupervised neural networks by testing them on unseen data.
 
